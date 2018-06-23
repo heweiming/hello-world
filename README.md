@@ -4,3 +4,5 @@ Yes, Let's go now!
 yes, this is some content as branch.
 
 This is another change at branch at 12:18.
+ 
+新的内容
